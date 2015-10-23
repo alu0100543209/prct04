@@ -1,3 +1,9 @@
 ¿Qué es rvm (Ruby Version Manager)?
 
 Es una herramienta que nos permite tener tantos intérpretes de Ruby como queramos , incluso de diferetnes versiones menores de un mismo intérpretre y cambiar de uno a otro mediante un comando.
+
+¿Cuáles son las diferencias entre la ejecución del programa "Hola mundo" con el intérprete de Ruby (ruby helloWorld.rb) y el intérprete interactivo del ejercico anterior?
+
+Al ejecutarlo con el interprete a partir del fichero, primero se carga el fichero y luego se ejecuta cada instruccion una a una mientras que con el interprete interactivo se escriben las instruccionesy se ejecutan inmediatamente despues de que se escriben. Aparte que el intérprete de Ruby muestra el resultado directo y el interactivo va dando lo que hace aparte , por otro lado para modificar el resultado final habría que editar el fichero en cambio en el interactivo lo puedes hacer sobre la marcha y ver el resultado inmediatamente.
+
+
